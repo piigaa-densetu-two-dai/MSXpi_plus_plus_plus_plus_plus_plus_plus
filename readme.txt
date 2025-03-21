@@ -16,6 +16,12 @@ FM音源
 ＊fm_i2s
 FM音源 I2S出力版
 
+＊kanji
+第一・第二水準漢字ROM、松下12px第一水準漢字ROM、漢字ドライバー
+
+＊kanji_plus
+MSXView漢字ROM、松下12px第一水準漢字ROM
+
 ＊midi_usb
 MIDIインターフェース USB-MIDI版
 
