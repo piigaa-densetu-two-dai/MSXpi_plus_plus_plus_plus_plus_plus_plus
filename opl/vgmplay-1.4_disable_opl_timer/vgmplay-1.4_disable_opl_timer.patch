@@ -1,0 +1,12 @@
+diff -ru vgmplay-msx-release-1.4/src/timers/TimerFactory.asm vgmplay-msx-release-1.4.mod/src/timers/TimerFactory.asm
+--- vgmplay-msx-release-1.4/src/timers/TimerFactory.asm	2023-05-19 00:58:20.000000000 +0900
++++ vgmplay-msx-release-1.4.mod/src/timers/TimerFactory.asm	2025-10-24 17:36:19.151790300 +0900
+@@ -24,7 +24,7 @@
+ ; f <- c: succeeded
+ TimerFactory_Create:
+ 	call TimerFactory_CreateTurboRTimer
+-	call nc,TimerFactory_CreateOPLTimer
++	;call nc,TimerFactory_CreateOPLTimer
+ 	call nc,TimerFactory_CreateLineTimer
+ 	call nc,TimerFactory_CreateVBlankTimer
+ 	ret
