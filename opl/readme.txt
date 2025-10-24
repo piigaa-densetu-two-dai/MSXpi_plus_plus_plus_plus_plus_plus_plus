@@ -8,6 +8,7 @@ https://github.com/digital-sound-antiques/emu8950
 御注意①
 MSXπ✨✨✨✨✨✨✨に配線を追加する必要があります。mod.jpgの通りに配線して下さい。
 配線を行なわないと割り込み信号を使用したプログラムが正常動作しません。
+VGMPlayはこれに該当しますがvgmplay-1.4_disable_opl_timer以下にあるパッチ版のvgmplay.comは配線を行わなくても動作します。
 
 御注意➋
 データバスがきちんとプルアップされていないMSX機種の場合、起動時にハングする、call audioで異常動作する等の
