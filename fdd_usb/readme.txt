@@ -1,5 +1,5 @@
 *** これはテスト版です ***
-データが消えたりとかあるといけないので大切なメディアは使用しないで下さい。
+データが消えたりとかあるといけないので大切なメディアは使用しない又は書き込み禁止で使用してください。
 
 
 
@@ -17,6 +17,21 @@ NEC FD-05PUB (OEM元 TEAC FD-05PUB (VID:0x0644 PID:0x0000))
 
 近年流通しているTEAC FD-05PUBによく似た中国製ドライブは2DDディスクが使えない粗悪品でしたご注意ください。
 本物のTEAC FD-05PUBマレーシア製とのことです。
+
+皆さんから頂いた動作報告。ありがとうございます。
+
+動いた
+NEC FD-05PUB
+BUFFALO FD-2USB
+I/O USB-FDX4
+I•O DATA USB-FDX1BK
+東芝 PA3214U-2FDD/Y-E Data YD-8U10 (VID:0x057B PID:0x0000)
+TEAC FD-32USB/TEAC FD-05UW (VID:0x0644 PID:0x0000)
+BUFFALO USB Floppy/Sony MFP820U (VID:0x054C PID:0x002C)
+富士通 FMFD-51S
+
+動かなかった
+SONY PCGA-UFD5
 
 MSXπ✨✨✨✨✨✨✨のLEDはUSBフロッピーディスクドライブを認識すると点灯します。
 
